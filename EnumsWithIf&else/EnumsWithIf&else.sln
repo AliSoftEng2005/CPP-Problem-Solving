@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EnumsWithIf&else", "EnumsWithIf&else\EnumsWithIf&else.vcxproj", "{1925BF65-7267-4FE5-B830-D63C6D4B4EC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1925BF65-7267-4FE5-B830-D63C6D4B4EC4}.Debug|x64.ActiveCfg = Debug|x64
+		{1925BF65-7267-4FE5-B830-D63C6D4B4EC4}.Debug|x64.Build.0 = Debug|x64
+		{1925BF65-7267-4FE5-B830-D63C6D4B4EC4}.Debug|x86.ActiveCfg = Debug|Win32
+		{1925BF65-7267-4FE5-B830-D63C6D4B4EC4}.Debug|x86.Build.0 = Debug|Win32
+		{1925BF65-7267-4FE5-B830-D63C6D4B4EC4}.Release|x64.ActiveCfg = Release|x64
+		{1925BF65-7267-4FE5-B830-D63C6D4B4EC4}.Release|x64.Build.0 = Release|x64
+		{1925BF65-7267-4FE5-B830-D63C6D4B4EC4}.Release|x86.ActiveCfg = Release|Win32
+		{1925BF65-7267-4FE5-B830-D63C6D4B4EC4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C83DF983-7BF8-45B4-9797-E400D2E7449D}
+	EndGlobalSection
+EndGlobal
