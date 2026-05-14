@@ -3,7 +3,7 @@
 A collection of C++ problem-solving projects and coding exercises created during my learning journey in programming and software engineering.
 
 ## About
-This repository contains more than 60 C++ problems solved using different coding structures and approaches.  
+This repository contains more than 60 C++ problems solved using more than 120 different coding structures and approaches.  
 The goal of these projects is to improve:
 
 - Problem-solving skills
